@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+.classpath
+.project
+.settings/
+*/target/**
+/vcs.xml
+/compiler.xml
+/codeStyles/**
